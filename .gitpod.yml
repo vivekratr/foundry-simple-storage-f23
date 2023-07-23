@@ -1,1 +1,6 @@
+image: ubuntu-latest
+
+tasks:
+  - init: echo "Initializing..."
+    command: echo "Running tasks..."
 
